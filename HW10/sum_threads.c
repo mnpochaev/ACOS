@@ -1,4 +1,3 @@
-// hw12_sum_threads_ru.c
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
